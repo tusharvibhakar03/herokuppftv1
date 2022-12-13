@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Login Test"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="3.395">
+  <properties />
+  
+  
+            <testcase name="verifyTheUsernameErrorMessage" time="1.201" classname="com.herokupp.login.testsuite.LoginTest" />
+                <testcase name="UserShouldLoginSuccessfullyWithValidCredentials" time="1.122" classname="com.herokupp.login.testsuite.LoginTest" />
+                <testcase name="verifyThePasswordErrorMessage" time="1.072" classname="com.herokupp.login.testsuite.LoginTest" />
+      
+</testsuite>
